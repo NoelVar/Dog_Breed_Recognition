@@ -1,4 +1,4 @@
-# Dog_Bread_Recognition
+# Dog_Bread_Recognition - (2024/25)
 <hr>
 
 This project was created as part of my BSc Computer Science degree in the academic year 2024/25.
